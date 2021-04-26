@@ -26,7 +26,8 @@ SECRET_KEY = 'cg-y^mdcr)2z2m29%#jia-!dm-!)=&a5=7@c(7*z5mdgt0_(%y'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'cryptic-gorge-20636.herokuapp.com'
+    'cryptic-gorge-20636.herokuapp.com',
+    'https://nuriddin-django.herokuapp.com'
 ]
 
 
