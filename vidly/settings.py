@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'cryptic-gorge-20636.herokuapp.com',
-    'https://nuriddin-django.herokuapp.com'
+    'nuriddin-django.herokuapp.com'
 ]
 
 
